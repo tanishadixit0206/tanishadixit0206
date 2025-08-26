@@ -66,10 +66,17 @@ class Developer:
 
 <div align="center">
 
-### 🎮 **OBSTACLE CAR GAME** - *Neural-Responsive Gaming Interface*
-**`JavaScript` `HTML5 Canvas` `Game Development`**
+### 💻 **REMOTE PC WAKEUP** - *IoT Command Center*
+**`TypeScript` `Network Programming` `System Administration`**
 
-> *Advanced collision detection algorithms meet responsive web gaming*
+> *Quantum-entangled device management across dimensional networks*
+
+---
+
+### 🌐 **GMEET ALTERNATIVE** - *Holographic Communication Platform*
+**`TypeScript` `WebRTC` `Real-time Communication`**
+
+> *Decentralized video conferencing with enhanced privacy protocols*
 
 ---
 
@@ -80,24 +87,24 @@ class Developer:
 
 ---
 
-### 🌐 **GMEET ALTERNATIVE** - *Holographic Communication Platform*
-**`WebRTC` `Real-time Communication`**
+### 🧠 **QUIZZY BROWSER** - *AI Learning Enhancement Matrix*
+**`TypeScript` `Chrome Extension` `AI Integration`**
 
-> *Decentralized video conferencing with enhanced privacy protocols*
-
----
-
-### 💻 **REMOTE PC WAKEUP** - *IoT Command Center*
-**`Network Programming` `System Administration`**
-
-> *Quantum-entangled device management across dimensional networks*
+> *Transform GFG and MDN into interactive mock interviews - personal AI interviewer system*
 
 ---
 
-### 🧪 **TEST PORTAL** - *Academic Assessment Matrix*
-**`Python` `Django` `React`**
+### 🏟️ **SPORT STREAM** - *Athletic Data Streaming Platform*
+**`Python` `Real-time Data` `Sports Analytics`**
 
-> *AI-powered evaluation system with predictive analytics*
+> *Live sports data aggregation with predictive performance analytics*
+
+---
+
+### 🛡️ **VID TRUST** - *Advanced Media Verification System*
+**`TypeScript` `Computer Vision` `Security`**
+
+> *Neural network-powered video authenticity detection and trust scoring*
 
 </div>
 
